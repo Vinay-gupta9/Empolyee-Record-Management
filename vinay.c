@@ -196,7 +196,7 @@ gotoxy(4,4);
 cprintf("RECORD OF EMPLOYEE");
 textcolor(GREEN);
 gotoxy(4,5);
-cprintf("——————–");
+cprintf("â€”â€”â€”â€”â€”â€”â€“");
 gotoxy(4,6);
 cprintf("EMPLOYEE ID :");
 cprintf("%s",emp.empID);
